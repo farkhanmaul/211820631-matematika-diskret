@@ -4,9 +4,9 @@
 using namespace std;
 			
 int main(){
-	char kata1;			// Nama : Muhammad Farkhan Maulana
-	char kata2;			// NIM	: 2000018280
-	char kata3;			// Kelas : E
+	char kata1;	
+	char kata2;			
+	char kata3;			
 	char kata4;
 	int a, b, c,d;
 	cout<<"Masukkan titik pertama: ";
